@@ -19,3 +19,4 @@ A real-time cryptocurrency tracking full-stack web application built entirely on
    git clone [https://github.com/mohammedazimpatel05-dot/crypto-tracker.git](https://github.com/mohammedazimpatel05-dot/crypto-tracker.git)
    cd crypto-tracker
    
+http://localhost:5000/ 
